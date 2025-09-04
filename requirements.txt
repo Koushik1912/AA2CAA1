@@ -1,0 +1,16 @@
+langchain-community
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq
+langchain_tavily
+streamlit
+transformers
+torch
+arxiv
+wikipedia
+together
+langchain_openai
+streamlit-modal
+PyPDF2
